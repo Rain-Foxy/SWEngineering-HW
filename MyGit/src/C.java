@@ -2,6 +2,6 @@
 
 public class C {
 	public void sayBye() {
-		System.out.println("Create a Bye class");
+		System.out.println("This is first version");
 	}
 }
